@@ -1,0 +1,9 @@
+{
+  "name": "Aura IA",
+  "description": "Uma interface de inteligência artificial futurista chamada Aura, capaz de pesquisa avançada, interação por voz em tempo real e análise visual via câmera ou compartilhamento de tela.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
